@@ -14,3 +14,6 @@ The encryption can be represented using modular arithmetic by first transforming
 
  - Encryption: [ E_n(x) = (x + n) \mod 26 ]
  - Decryption: [ D_n(x) = (x - n) \mod 26 ]
+
+
+![image](https://github.com/user-attachments/assets/5ed789a2-9454-4bf8-8a2f-67726091adee)
